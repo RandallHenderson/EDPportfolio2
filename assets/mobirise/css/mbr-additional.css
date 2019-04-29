@@ -1717,10 +1717,10 @@ nav.opened .hamburger span {
 @showSubTitle: false;
 @showText: false;
 @showButtons: false;
-@uname__12: "file:///C:/Users/ehender788/Desktop/PortfolioSite//assets/images/mbr-1-1920x600.jpg";
+@uname__12: "file:///C:/Users/ehender788/Desktop/EDPPortfolioSite2019//assets/images/mbr-1-1920x600.jpg";
 @uname__13: true;
 @uname__14: #073b4c;
-@bg-value: "file:///C:/Users/ehender788/Desktop/PortfolioSite//assets/images/mbr-1-1920x600.jpg";
+@bg-value: "file:///C:/Users/ehender788/Desktop/EDPPortfolioSite2019//assets/images/mbr-1-1920x600.jpg";
 @bg-type: "image";
 @bg-color-value: #073b4c;
 @bg-parallax: true;
@@ -5868,8 +5868,8 @@ padding-bottom: (@paddingBottom * 15px);
   color: #767676 !important;
 }
 .cid-roOTrgMw6v {
-  padding-top: 135px;
-  padding-bottom: 105px;
+  padding-top: 120px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/worldview-balloon3-706x389.jpg");
 }
 .cid-rm9M4xeWLf {
@@ -6252,8 +6252,8 @@ padding-bottom: (@paddingBottom * 15px);
   color: #ffffff;
 }
 .cid-roQLQqB8pA {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-roQLQqB8pA .line {
@@ -6271,6 +6271,29 @@ padding-bottom: (@paddingBottom * 15px);
 }
 @media (max-width: 768px) {
   .cid-roQLQqB8pA .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rp2VAZCmcV {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rp2VAZCmcV .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rp2VAZCmcV .section-text {
+  padding: 2rem 0;
+}
+.cid-rp2VAZCmcV .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rp2VAZCmcV .inner-container {
     width: 100% !important;
   }
 }
